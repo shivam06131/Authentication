@@ -6,3 +6,5 @@ This is basic yet very complex app. here acc password is hashed and stored to da
 Tech used:- 
 FrontEnd:- material-ui/core, material-ui/icons,  React , Redux , react-file-base64 , axios ,react-dom , react-google-login ,react-redux , react-router-dom , redux-thunk.
 BackEnd:- bcrypt , cors , dotenv , express , jsonwebtoken , mongoose , nodemon.
+
+App in action :- https://shivam-authentication-app.netlify.app
